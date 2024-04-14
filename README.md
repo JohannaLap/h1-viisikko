@@ -1,6 +1,9 @@
 # h1-viisikko
 tehtävät a-d 
 
-a) Salt on asennettuna konelle. Sen testaaminen komennoilla salt-call -version ja salt-call --
-![saltin testaaminen] ([salt -call --localversion ping.png](https://github.com/JohannaLap/h1-viisikko.git) salt-call --local.png)
+a) Salt on asennettuna konelle. Sen testaaminen komennoilla salt-call -version ja salt-call --local test.ping
+![salt call] (h1-viisikko/salt-call --local.png)
+
+
+
 
