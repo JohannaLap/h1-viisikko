@@ -32,7 +32,7 @@ Käynnistin virtuaali koneen vagrant up ja vagrant ssh komentoja käyttäen.
 
 ![ssh_t001](https://github.com/JohannaLap/h1-viisikko/assets/165195836/abeed332-44af-4731-a026-cb70cf7fdc9c)
 
-!vagrant virtualboxissa](https://github.com/JohannaLap/h1-viisikko/assets/165195836/aa9fec2b-780c-4369-8514-dca3459cd32d)
+!vagrant virtualboxissa]![Screenshot 2024-04-11 113515](https://github.com/JohannaLap/h1-viisikko/assets/165195836/0d391fca-83a5-400d-9f31-4881757718e6)
 
 d) Idempotentti. Tällä siis tarkoitetaan, että toiminto voidaan suorittaa useita kertoja samalla tavalla saamalla aina samanlainen lopputulos. 
 
